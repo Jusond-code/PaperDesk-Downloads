@@ -17,5 +17,3 @@ AI 기능을 사용하려면 선택한 제공자의 API 키가 필요합니다. 
 
 - **Mac** — Apple Silicon, macOS 14 이상. ZIP을 풀고 `PaperDesk.app`을 응용 프로그램 폴더로 옮겨 실행하세요. 이후에는 앱 메뉴 **PaperDesk → 업데이트… → GitHub**에서 새 버전을 확인할 수 있습니다.
 - **Windows** — Windows 10/11 x64. 릴리스에서 `.exe`를 받아 실행하세요. 새 버전은 릴리스에서 설치 파일을 받아 설치합니다.
-
-0.3.0에서 OpenAI·Claude 선택, PDF 선택문 첨부, 이전 답변 인용, 답변의 원문 페이지 링크, Windows 첫 설치판을 추가했습니다. [전체 변경 기록](CHANGELOG.md)
