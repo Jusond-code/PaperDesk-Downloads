@@ -1,9 +1,8 @@
 # PaperDesk-Downloads
 
-PaperDesk의 macOS 실행 파일을 배포하는 저장소입니다.
+PaperDesk의 Mac 및 Windows 실행 파일을 배포하는 저장소입니다.
 
-- [PaperDesk 0.3.0 다운로드](PaperDesk-0.3.0.zip?raw=true) · 빌드 23 · Apple Silicon, macOS 14 이상
-- ZIP을 풀고 `PaperDesk.app`을 응용 프로그램 폴더에 옮겨 실행하세요.
+- [Mac·Windows 다운로드](https://github.com/Jusond-code/PaperDesk-Downloads/releases)
 - 이후에는 앱 메뉴 **PaperDesk → 업데이트… → GitHub**에서 새 버전을 확인하세요.
 - 저장소가 비공개인 경우 이 저장소의 **Contents: Read** 권한이 있는 GitHub 토큰을 앱에 저장하세요.
 
